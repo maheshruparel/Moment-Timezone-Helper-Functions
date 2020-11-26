@@ -14,3 +14,4 @@ const getDurationYMD = (smallDate, bigDate, includeBothDates) => {
   return { years, months, days };
 };
 
+export default getDurationYMD
